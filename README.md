@@ -1,5 +1,11 @@
-# RailsCasts Episode #390: Turbolinks
+# RailsCasts Example Application
 
-http://railscasts.com/episodes/390-turbolinks
+Run these commands to try it out.
 
-Requires Ruby 1.9.2 or higher.
+```
+bundle
+rake db:setup
+rails s
+```
+
+Requires Ruby 1.9.2 or later to run.
